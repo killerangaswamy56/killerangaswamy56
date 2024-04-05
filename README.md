@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19642
-Fork on GitHub
-5897
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rangaswamy Kille</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
