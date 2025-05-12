@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangaswamykille&label=Profile%20views&color=0e75b6&style=flat" alt="rangaswamykille" /> </p>
 
-- 🌱 I’m currently learning **Java Full stack**
+- 🌱 I’m currently learning **AWS Devops**
 
 - 💬 Ask me about **Python, Java, AWS, Linux, SQL,HTML,CSS**
 
